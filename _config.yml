@@ -1,5 +1,5 @@
 # Basic
-title: Summer - Li
+title: Summer Li
 subtitle: A blog-orientation theme for Jekyll
 welcome_message: <a href="" target="_blank">Welcome</a>
 description: this is description.
@@ -21,8 +21,8 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+# nav:
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
