@@ -1,2 +1,2 @@
 # Weaving the Moso
-![Weaving the Moso](../images/background-cover.jpg)
+![Weaving the Moso](summer-lh.github.io/assets/images/mosuo.jpeg)
